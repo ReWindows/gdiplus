@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "gdiplus.dll",
+  "latest": "1500628971-DDF19AA09F285660C86065C38EF751A4-1",
+  "builds": [
+    {
+      "key": "1500628971-DDF19AA09F285660C86065C38EF751A4-1",
+      "timestamp": "1500628971",
+      "pdb_guid": "DDF19AA09F285660C86065C38EF751A4",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1500628971-DDF19AA09F285660C86065C38EF751A4-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
